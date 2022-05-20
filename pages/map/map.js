@@ -81,8 +81,8 @@ Page({
       name:point.name || '',
       latitude: latitude,
       longitude: longitude,
-      width: 25,
-      height: 48
+      // width: 25,
+      // height: 48
     };
     return marker;
   }
